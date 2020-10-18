@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 ഹായ് {}, എന്റെ പേര് {}! 
 
-എന്നെ നിർമ്മിച്ചത് [[Film Dimora](https://t.me/filmdimora) എന്ന് ഗ്രൂപ്പിന് ആണ്
+എന്നെ നിർമ്മിച്ചത് [Film Dimora](https://t.me/filmdimora) എന്ന് ഗ്രൂപ്പിന് ആണ്
 എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](https://t.me/pppppgame) ആണ് .
 
 """
